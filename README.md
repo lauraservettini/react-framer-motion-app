@@ -1,8 +1,9 @@
-# React + Vite
+# React Framer Motion App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app is build using React+Vite.
+It's was a challenge app where the user could set and save some challenge and highlight them as completed or failed.
 
-Currently, two official plugins are available:
+The core feature of this app is the animation made with the package "framer-motion".
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#LICENSE
+[MIT License]('./MIT-LICENSE');
